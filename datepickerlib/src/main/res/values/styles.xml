@@ -1,0 +1,9 @@
+<resources>
+
+
+    <style name="DatePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+
+        <item name="colorAccent">#a72128</item>
+    </style>
+
+</resources>
